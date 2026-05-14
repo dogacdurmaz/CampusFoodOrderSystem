@@ -34,10 +34,6 @@ The system is a simple campus food ordering application written in Java.
 
 ## Example Output
 
-Order created for: Ali  
-Food: Chicken Sandwich  
-Delivery fee: 25 TL  
-
-## GitHub Repository
-
-Created by Dogac Durmaz
+Order created for: Ali
+Food: Chicken Sandwich
+Delivery fee: 25 TL
